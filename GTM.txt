@@ -1,0 +1,5 @@
+Google tag manager
+
+A Tag which should not be fired based on some trigger but that tag is getting triggered: 
+
+It might be due to tag sequencing for another trigger which uses above tag in its sequencing.
